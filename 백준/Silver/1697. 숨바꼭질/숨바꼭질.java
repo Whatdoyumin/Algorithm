@@ -15,10 +15,6 @@ public class Main {
         int N = Integer.parseInt(st.nextToken());
         int K = Integer.parseInt(st.nextToken());
 
-        for (int i = 0; i < K; i++) {
-            visited[i] = false;
-        }
-
         System.out.println(Bfs(N, K));
     }
 
