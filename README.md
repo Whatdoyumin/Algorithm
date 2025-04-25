@@ -19,4 +19,16 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Whatdoyumin/Algorithm/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Whatdoyumin/Algorithm/tree/master/0871-keys-and-rooms) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Whatdoyumin/Algorithm/tree/master/0871-keys-and-rooms) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Whatdoyumin/Algorithm/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
