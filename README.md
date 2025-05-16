@@ -27,6 +27,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Whatdoyumin/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Whatdoyumin/Algorithm/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Whatdoyumin/Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/Whatdoyumin/Algorithm/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
@@ -57,8 +58,10 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Whatdoyumin/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Whatdoyumin/Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Whatdoyumin/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Whatdoyumin/Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
