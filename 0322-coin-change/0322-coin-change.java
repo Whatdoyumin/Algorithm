@@ -3,31 +3,30 @@ import java.util.*;
 class Solution {
     public int coinChange(int[] coins, int amount) {
         // 최소 동전 개수를 구하므로 BFS
-        Queue<Integer> q = new LinkedList<>();
-        Set<Integer> visited = new HashSet<>();
-        int count = 0;
-        q.add(0);
-        visited.add(0);
+        Queue<int[]> q = new LinkedList<>();
+        q.offer(new int[]{0, 0});
 
-        while (!q.isEmpty()) {
-            int size = q.size();
-            for(int i = 0; i < size; i++) {
-                int sum = q.poll();
+        boolean[] visited = new boolean[amount + 1];
+        visited[0] = true;
 
-                if (sum == amount) {
-                    return count;
-                }
+        while(!q.isEmpty()) {
+            int[] cur = q.poll();
+            int cur_amount = cur[0];
+            int count = cur[1];
 
-                for (int coin : coins) {
-                    int next = sum + coin;
-                    if (next <= amount && !visited.contains(next)) {
-                        q.add(next);
-                        visited.add(next);
-                    }
+            // if 현재 노드 == amount -> return count;
+            if(cur_amount == amount) return count;
+
+            // 다음 노드 예약
+            for(int coin : coins) {
+                int next_amount = cur_amount + coin;
+                if (next_amount >= 0 && next_amount <= amount && !visited[next_amount]) {
+                    visited[next_amount] = true;
+                    q.offer(new int[]{next_amount, count + 1});
                 }
             }
-            count++;
         }
+
         return -1;
     }
 }
