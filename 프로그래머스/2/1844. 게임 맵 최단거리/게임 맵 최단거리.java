@@ -21,9 +21,8 @@ class Solution {
             int curCol = cur[1];
             int dist = cur[2];
             
-            if(curRow == rowLength - 1 && curCol == colLength - 1) {
+            if(curRow == rowLength - 1 && curCol == colLength - 1)
                 return dist;
-            }
             
             for(int i = 0; i < 4; i++) {
                 int nextRow = curRow + dr[i];
@@ -31,18 +30,16 @@ class Solution {
                 
                 if(isValid(nextRow, nextCol, maps)) {
                     if(!visited[nextRow][nextCol]) {
-                        visited[nextRow][nextCol] = true;
                         q.offer(new int[]{nextRow, nextCol, dist + 1});
+                        visited[nextRow][nextCol] = true;
                     }
                 }
             }
         }
-        
-        
         return -1;
     }
     
-    boolean isValid(int r, int c, int[][] grid) {
-        return (r >= 0 && r < rowLength) && (c >= 0 && c < colLength) && grid[r][c] == 1;
+    boolean isValid(int r, int c, int[][] maps) {
+        return (r >= 0 && r < maps.length) && (c >= 0 && c < maps[0].length) && maps[r][c] == 1;
     }
 }
