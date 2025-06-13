@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Whatdoyumin/Algorithm/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Whatdoyumin/Algorithm/tree/master/0046-permutations) |
 | [0200-number-of-islands](https://github.com/Whatdoyumin/Algorithm/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Whatdoyumin/Algorithm/tree/master/0322-coin-change) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Whatdoyumin/Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -64,4 +65,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Whatdoyumin/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Whatdoyumin/Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Whatdoyumin/Algorithm/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
