@@ -3,13 +3,10 @@ class Solution {
         int n = nums.length;
         int[] answer = new int[2];
 
-        for(int i = 0; i < n; i++) {
-            for(int j = 1; j < n; j++) {
+        for(int i = 0; i < n - 1; i++) {
+            for(int j = i + 1; j < n; j++) {
                 if(nums[i] + nums[j] == target){
-                    if(i != j) {
-                        answer = new int[]{i, j};
-                        return answer;
-                    }
+                    answer = new int[]{i, j};
                 }
             }
         }
