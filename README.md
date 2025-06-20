@@ -45,6 +45,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Whatdoyumin/Algorithm/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Whatdoyumin/Algorithm/tree/master/0322-coin-change) |
 ## Union Find
 |  |
@@ -69,4 +70,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Whatdoyumin/Algorithm/tree/master/0046-permutations) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Whatdoyumin/Algorithm/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Whatdoyumin/Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
