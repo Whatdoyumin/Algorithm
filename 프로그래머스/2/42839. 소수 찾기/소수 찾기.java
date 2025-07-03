@@ -4,20 +4,21 @@ class Solution {
     Set<Integer> primeSet;
     
     public int solution(String numbers) {
-        int count = 0;
-        primeSet = new HashSet<>();
         
+        primeSet = new HashSet<>();
         boolean[] visited = new boolean[numbers.length()];
+        
         backtrack(numbers, visited, "");
         
         return primeSet.size();
     }
     
     void backtrack(String numbers, boolean[] visited, String cur) {
-        if (cur.length() != 0) {
+        if(cur.length() != 0) {
             int num = Integer.parseInt(cur);
-            if(isPrime(num))
+            if(isPrime(num)) {
                 primeSet.add(num);
+            }
         }
         
         for(int i = 0; i < numbers.length(); i++) {
