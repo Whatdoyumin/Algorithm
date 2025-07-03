@@ -2,28 +2,19 @@ import java.util.*;
 
 class Solution {
     public int solution(int[] numbers, int target) {
-        // numbers의 조합으로 target을 만들 수 있는 경우의 수
-        // BFS 이용
-        
-        int count = 0;
-        
-        Queue<Integer> queue = new LinkedList<>();  
-        queue.add(0);
-        
-        for (int i = 0; i < numbers.length; i++) {
-            int size = queue.size();
-            for (int j = 0; j < size; j++) {
-                int total = queue.poll();
-                queue.add(total + numbers[i]);
-                queue.add(total - numbers[i]);
-            }
-        }
-        
-        while (!queue.isEmpty()) {
-            if (queue.poll() == target) {
-                count++;
-            }
-        }
-        return count;
+        return dfs(numbers, target, 0, 0);
     }
+    
+    int dfs(int[] numbers, int target, int index, int cur) {
+        if(index == numbers.length) {
+            return (cur == target) ? 1 : 0;
+        }
+        
+        int sum = 0;
+        sum += dfs(numbers, target, index + 1, cur + numbers[index]);
+        sum += dfs(numbers, target, index + 1, cur - numbers[index]);
+        
+        return sum;
+    }
+    
 }
