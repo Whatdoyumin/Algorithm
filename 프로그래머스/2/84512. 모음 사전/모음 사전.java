@@ -1,29 +1,28 @@
-import java.util.*;
-
 class Solution {
+    static String[] words = {"A", "E", "I", "O", "U"};
+    static boolean found = false;
+    static int count = 0;
+    
     public int solution(String word) {
-        String[] vowels = {"A", "E", "I", "O", "U"};
-        Queue<String> q = new PriorityQueue<>();
-        q.add("");
-
-        int count = 0;
-        while (!q.isEmpty()) {
-            String current = q.poll();
-
-            if (!current.isEmpty()) {
-                count++;
-                if (current.equals(word)) {
-                    return count;
-                }
-            }
-
-            if (current.length() < 5) {
-                for (String v : vowels) {
-                    q.add(current + v);
-                }
+        dfs("", word);
+        return count;
+    }
+    
+    private void dfs(String cur, String target) {
+        if (found) return;
+        
+        if (!cur.isEmpty()) {
+            count++;
+            
+            if (cur.equals(target)) {
+                found = true;
+                return;
             }
         }
-
-        return -1;
+        
+        if (cur.length() == 5) return;
+        
+        for(String w : words)
+            dfs(cur + w, target);
     }
 }
