@@ -2,34 +2,42 @@ import java.util.*;
 
 class Solution {
     public int solution(String s) {
-        int count = 0;
+        // s를 왼쪽으로 회전시켰을 때 올바른 문자열이 되게 하는 개수
         
-        for(int i = 0; i < s.length(); i++) {
-            if(isCorrect(s))
-                count++;
+        int answer = 0;
+        int length = s.length();
+        
+        // 회전시키고, 올바른지 판단하기
+        for(int i = 0; i < length; i++) {
+            String cur = s.substring(i, length);
+            if(i > 0) cur += s.substring(0, i);
             
-            s = s.substring(1) + s.charAt(0);
-        }
-        
-        return count;
-    }
-    
-    boolean isCorrect(String s) {
-        Deque<Character> stack = new ArrayDeque<>();
-        
-        for(char c : s.toCharArray()) {
-            if(c == '(' || c == '{' || c == '[')
-                stack.push(c);
-            else {
-                if(stack.isEmpty()) return false;
+            Stack<Character> st = new Stack<>();
+            boolean isValid = true;
+            
+            for(int j = 0; j < length; j++) {
+                Character curWord = cur.charAt(j);
                 
-                char top = stack.pop();
+                if (curWord.equals('(') || curWord.equals('{') || curWord.equals('[')) st.push(curWord);
                 
-                if(top != '(' && c == ')') return false;
-                if(top != '{' && c == '}') return false;
-                if(top != '[' && c == ']') return false;
+                else {
+                    if (st.isEmpty()) {
+                        isValid = false;
+                        break;
+                    };
+                    Character top = st.peek();
+                    
+                    if (top.equals('(') && !curWord.equals(')')) break;
+                    if (top.equals('{') && !curWord.equals('}')) break;
+                    if (top.equals('[') && !curWord.equals(']')) break;
+                    
+                    st.pop();
+                }
             }
+            
+            if (isValid && st.isEmpty()) answer++;
         }
-        return stack.isEmpty();
+        
+        return answer;
     }
 }
