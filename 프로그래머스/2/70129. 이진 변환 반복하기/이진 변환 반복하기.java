@@ -1,31 +1,24 @@
 class Solution {
     public int[] solution(String s) {
-        // s가 1이 될 때까지 이진 변환을 했을 때, 제거된 모든 0의 개수를 각각 배열에 담아 return
-        // 1. s의 모든 0 제거
-        // 2. s = s의 길이를 2진법으로 표현한 문자열
-        // (111111이면 각각 1 % 2 / 3 % 2 / 6 % 2 -> 1 1 0)
-        StringBuilder sb = new StringBuilder();
+        // s가 1이 될 때까지 계속해서 s에 이진 변환 가하기
+        // 1. x의 모든 0 제거
+        // 2. x = x의 길이를 2진법으로 바꾼 문자열
+        // => 이진 변환 횟수, 제거된 모든 0의 개수 담아 return
         
-        // 현재 길이
-        int length = s.length();
+        // 이진 변환 횟수
+        int turn = 0;
         
-        // 지운 0의 개수
-        int total = 0;
+        // 제거된 0 개수
+        int count = 0;
         
-        // 순회 횟수
-        int num = 0;
-        
-        while(!s.equals("1")) {
-            num++;
-            String removed = s.replace("0", "");
-            int removedCount = s.length() - removed.length();
-            total += removedCount;
-            length = s.replace("0", "").length();
+        while (!s.equals("1")) {
+            String str = s.replace("0", "");
+            count += s.length() - str.length();
             
-            s = Integer.toBinaryString(length);
+            s = Integer.toBinaryString(str.length());
+            turn++;
         }
         
-        int[] answer = {num, total};
-        return answer;
+        return new int[]{turn, count};
     }
 }
