@@ -4,8 +4,9 @@ class Solution {
         int sum = brown + yellow;
         
         for(int i = 3; i < sum; i++) {
-            if(sum % i == 0) {
+            if (sum % i == 0) {
                 int j = sum / i;
+                
                 if ((i - 2) * (j - 2) == yellow) {
                     answer[0] = i;
                     answer[1] = j;
