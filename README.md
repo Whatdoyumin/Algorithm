@@ -47,6 +47,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Whatdoyumin/Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Whatdoyumin/Algorithm/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Whatdoyumin/Algorithm/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Whatdoyumin/Algorithm/tree/master/0322-coin-change) |
@@ -76,6 +77,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Whatdoyumin/Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Whatdoyumin/Algorithm/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -97,4 +99,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Whatdoyumin/Algorithm/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Whatdoyumin/Algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
