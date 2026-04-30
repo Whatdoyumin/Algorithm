@@ -14,6 +14,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0239-sliding-window-maximum](https://github.com/Whatdoyumin/Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Whatdoyumin/Algorithm/tree/master/0322-coin-change) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Whatdoyumin/Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Whatdoyumin/Algorithm/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,4 +106,16 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Whatdoyumin/Algorithm/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Whatdoyumin/Algorithm/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Whatdoyumin/Algorithm/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Whatdoyumin/Algorithm/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
