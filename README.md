@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0001-two-sum](https://github.com/Whatdoyumin/Algorithm/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Whatdoyumin/Algorithm/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Whatdoyumin/Algorithm/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Whatdoyumin/Algorithm/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Whatdoyumin/Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Whatdoyumin/Algorithm/tree/master/0200-number-of-islands) |
@@ -25,6 +26,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Whatdoyumin/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Whatdoyumin/Algorithm/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Whatdoyumin/Algorithm/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +34,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Whatdoyumin/Algorithm/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Whatdoyumin/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Whatdoyumin/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Whatdoyumin/Algorithm/tree/master/0207-course-schedule) |
@@ -65,6 +68,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Whatdoyumin/Algorithm/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Whatdoyumin/Algorithm/tree/master/0200-number-of-islands) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Whatdoyumin/Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Tree
@@ -81,6 +85,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Whatdoyumin/Algorithm/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Whatdoyumin/Algorithm/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
