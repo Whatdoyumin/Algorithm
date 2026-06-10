@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Whatdoyumin/Algorithm/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Whatdoyumin/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Whatdoyumin/Algorithm/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Whatdoyumin/Algorithm/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Whatdoyumin/Algorithm/tree/master/0120-triangle) |
@@ -31,6 +32,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Whatdoyumin/Algorithm/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Whatdoyumin/Algorithm/tree/master/0042-trapping-rain-water) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Whatdoyumin/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Whatdoyumin/Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Whatdoyumin/Algorithm/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Whatdoyumin/Algorithm/tree/master/0120-triangle) |
@@ -133,4 +136,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Whatdoyumin/Algorithm/tree/master/0207-course-schedule) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Whatdoyumin/Algorithm/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Whatdoyumin/Algorithm/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
