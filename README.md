@@ -27,6 +27,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Whatdoyumin/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Whatdoyumin/Algorithm/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Whatdoyumin/Algorithm/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Whatdoyumin/Algorithm/tree/master/0079-word-search) |
 ## Stack
 |  |
@@ -92,6 +93,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Whatdoyumin/Algorithm/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Whatdoyumin/Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Whatdoyumin/Algorithm/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -144,4 +146,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Whatdoyumin/Algorithm/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Whatdoyumin/Algorithm/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
