@@ -12,6 +12,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0075-sort-colors](https://github.com/Whatdoyumin/Algorithm/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Whatdoyumin/Algorithm/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Whatdoyumin/Algorithm/tree/master/0120-triangle) |
+| [0179-largest-number](https://github.com/Whatdoyumin/Algorithm/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Whatdoyumin/Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Whatdoyumin/Algorithm/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Whatdoyumin/Algorithm/tree/master/0239-sliding-window-maximum) |
@@ -33,6 +34,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0043-multiply-strings](https://github.com/Whatdoyumin/Algorithm/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Whatdoyumin/Algorithm/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Whatdoyumin/Algorithm/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/Whatdoyumin/Algorithm/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
@@ -162,4 +164,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Whatdoyumin/Algorithm/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Whatdoyumin/Algorithm/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Whatdoyumin/Algorithm/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
