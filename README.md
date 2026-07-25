@@ -49,6 +49,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0200-number-of-islands](https://github.com/Whatdoyumin/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Whatdoyumin/Algorithm/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Whatdoyumin/Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0743-network-delay-time](https://github.com/Whatdoyumin/Algorithm/tree/master/0743-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/Whatdoyumin/Algorithm/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
@@ -57,6 +58,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0200-number-of-islands](https://github.com/Whatdoyumin/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Whatdoyumin/Algorithm/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Whatdoyumin/Algorithm/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/Whatdoyumin/Algorithm/tree/master/0743-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/Whatdoyumin/Algorithm/tree/master/0871-keys-and-rooms) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Whatdoyumin/Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph
@@ -123,6 +125,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Whatdoyumin/Algorithm/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/Whatdoyumin/Algorithm/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -140,6 +143,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Whatdoyumin/Algorithm/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Whatdoyumin/Algorithm/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Whatdoyumin/Algorithm/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -171,4 +175,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Whatdoyumin/Algorithm/tree/master/0179-largest-number) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Whatdoyumin/Algorithm/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
