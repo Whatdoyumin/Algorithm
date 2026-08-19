@@ -18,6 +18,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0213-house-robber-ii](https://github.com/Whatdoyumin/Algorithm/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Whatdoyumin/Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Whatdoyumin/Algorithm/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Whatdoyumin/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Whatdoyumin/Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Whatdoyumin/Algorithm/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
@@ -78,6 +79,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0213-house-robber-ii](https://github.com/Whatdoyumin/Algorithm/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Whatdoyumin/Algorithm/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Whatdoyumin/Algorithm/tree/master/0337-house-robber-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/Whatdoyumin/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 ## Union Find
 |  |
 | ------- |
@@ -187,4 +189,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Whatdoyumin/Algorithm/tree/master/0337-house-robber-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Whatdoyumin/Algorithm/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Whatdoyumin/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
